@@ -1,0 +1,14 @@
+{
+    "name": "love-dapp",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Love",
+        "/category/asset_value_tracking/token/symbol": "BAE",
+        "/category/asset_value_tracking/token/decimals": "0",
+        "/category/asset_value_tracking/token/supply": "100000000"
+    }
+}
